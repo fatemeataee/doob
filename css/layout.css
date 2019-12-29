@@ -1,0 +1,26 @@
+.centered {
+  margin: 0;
+  padding: 0 5%;
+}
+
+.blue-color {
+  color: #314584;
+}
+
+.red-color {
+  color: #ff3946;
+}
+
+.btn {
+  padding:5% 10%;
+  margin: 0;
+  border: none;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1000px) {
+  .centered {
+      margin: 0;
+      padding: 0 2%;
+  }
+}
